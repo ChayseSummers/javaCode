@@ -1,0 +1,67 @@
+EXAMPLE
+Jack in the Box - NAME
+4203 SW Admiral Way - STREET ADDRESS
+restaurant, fast food - TAGS
+47.580891 - LATITUDE
+-122.3856279 - LONGITUDE
+--------------------------------------------------
+
+Proletariat Pizza
+9622-A 16th Ave SW
+food, pizza, vegan
+47.516782
+-122.354964
+
+Full Tilt Ice Cream
+9629 16th Ave SW
+food, ice cream, vegan
+47.516500
+-122.355361
+
+Southwest Community Center
+2801 SW Thistle St
+swim, recreation, community, fun
+47.527979
+-122.369168
+
+Lakewood Disc Golf Club
+11050 10th Ave SW
+disc golf, park, recreation, community, fun
+47.503936
+-122.345436
+
+Safeway
+9620 28th Ave SW
+shopping, food, groceries
+47.517031
+-122.368074
+
+Seattle Chinese Garden
+6000 16th Ave SW
+parks, relaxation, outdoors, fun, recreation
+47.551742
+-122.352582
+
+Chaco Canyon Organic Cafe
+3770 SW Alaska St
+food, vegan, healthy, organic
+47.561186
+-122.379903
+
+Great Harvest Bread Co.
+4709 California Ave SW
+bakery, sweets, treats, bread, food
+47.560808
+-122.386960
+
+Hamilton Viewpoint Park
+1531 California Way SW
+parks, recreation, view point
+47.593093
+-122.385841
+
+Phoenecia
+2716 Alki Ave SW
+pizza, food, alki, dinner
+47.579096
+-122.410150

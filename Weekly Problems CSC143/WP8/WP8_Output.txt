@@ -1,0 +1,13 @@
+Welcome, this program can return the counts for lines, words and characters of a plain text document.
+Please enter the file pathway: C:/Users/Womenin/Desktop/TheSignoftheFour.txt
+Would you like to add another file? Enter 1 to add another file, 0 to continue: 1
+Please enter the file pathway: C:/Users/Womenin/Desktop/TheReturnOfSherlockHolms.txt
+Would you like to add another file? Enter 1 to add another file, 0 to continue: 0
+Line count for book #1: 4541
+Line count for book #2: 12621
+Word count for book #1: 43140
+Word count for book #2: 112578
+Character count for book #1: 228821 (with spaces).
+Character count for book #2: 596552 (with spaces).
+Character count for book #1: 187616 (without spaces).
+Character count for book #2: 493832 (without spaces).

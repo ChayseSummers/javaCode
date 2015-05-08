@@ -1,0 +1,13 @@
+
+public class FirstProgram {
+
+
+	public static void main(String[] args) {
+		System.out.print("This is the first line\n");
+		System.out.print("This is the second line\n");
+		System.out.print("This is the thrid line\n");
+		System.out.print("Three times four is:");
+		System.out.println(3*4);
+	}
+
+}

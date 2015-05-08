@@ -1,0 +1,29 @@
+import java.util.*;
+import java.io.*;
+public class Chapter11Problems {
+
+	public static void main(String[] args) throws FileNotFoundException {
+		Scanner fileScanner = new Scanner(new File("MolbyDick"));
+		List<String> aList = new ArrayList<String>();
+		List<String> lnkdList = new LinkedList<String>();
+		loadWords(fileScanner, aList);
+		//fileScanner.reset();
+		fileScanner.close();
+		fileScanner = new Scanner(new File("MolbyDick"));
+		System.out.println(aList.size());
+		loadWords(fileScanner, lnkdList);
+		fileScanner.close();
+		System.out.println(lnkdList.size());
+		System.currentTimeMillis(); //gathers time.
+		
+
+	}
+
+	public static void loadWords(Scanner input, List<String> list){
+		System.out.print("loading words... ");
+		while(input.hasNext()){
+			list.add(input.next());
+		}
+		System.out.println("done.");
+	}
+}

@@ -1,0 +1,9 @@
+Beth	1.45
+Larry	2.12
+Patr	4.0
+Pat	3.23
+Eliza	1.23
+Harry	3.45
+Sally	2.45
+Philip	3.76
+Lester	2.78

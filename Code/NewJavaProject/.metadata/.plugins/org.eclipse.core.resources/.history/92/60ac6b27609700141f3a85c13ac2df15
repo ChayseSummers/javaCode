@@ -1,0 +1,20 @@
+
+public class FirstProgram {
+
+
+	public static void main(String[] args) {
+		System.out.print("This is the first line\nThis is the second line\nThis is the thrid line\n");
+//		System.out.println("This is the first line");
+//		System.out.println("This is the second line");
+//		System.out.println("This is the thrid line");
+// Could be done either way.
+		System.out.println("Three times four is:"+3*4);
+		System.out.println("This is a double quote:\"");
+	}
+	
+	public static void this_is_some_name_4you () {
+		
+	
+	}
+
+}

@@ -1,0 +1,46 @@
+Chayse Summers
+CSC142 - Gandham
+February 13th, 2015
+Assignment 2 - Reflections
+
+	After having completed fixing the errors throughout the brokenCalculator file, I started testing out different
+conditions to make sure that the program was working properly. Everything seems fine so long as you input in the valid
+format. I noticed when using a printf statement to output the results, the very small numbers do not get displayed
+properly. I don't know of anyway to tell it to figure out how many decimal places are needed and to output that in a
+printf statement, printf seems only capable of rounding digits to a specified number of places with the default being six
+places past the decimal. Because of this, it looks like using a non-printf statement to display the results is best. In
+the future I may try debugging by writing out every step I take.When I first did this assignment, I forgot to mark where
+the bugs where and ended up having to do it again. Keeping track of the bugs should help to show why other parts of the
+program aren't running properly, if they aren't running properly, during testing. 
+
+results:
+Your expression: .000000009 + .00000000008
+0.0000000090 + 0.000000 = 0.000000 (Using printf with the first expression set to %.10f, second to %s, third to %f and result to %f.)
+9.0E-9 + 8.0E-11 = 9.08E-9 (Using already coded in print statement.)
+
+Your expression: 2 + 2
+2.0 + 2.0 = 4.0
+
+Your expression: 2 - 2
+2.0 - 2.0 = 0.0
+
+Your expression: -2 + -2
+-2.0 + -2.0 = -4.0
+
+Your expression: -2 / -2
+-2.0 / -2.0 = 1.0
+
+Your expression: -2 - -2
+-2.0 - -2.0 = 0.0
+
+Your expression: -2 ^ 2
+-2.0 ^ 2.0 = 4.0
+
+Your expression: .0000006 + .0000007
+6.0E-7 + 7.0E-7 = 1.2999999999999998E-6
+
+Your expression: -2 * 2
+-2.0 * 2.0 = -4.0
+
+Your expression: -2 * -2
+-2.0 * -2.0 = 4.0

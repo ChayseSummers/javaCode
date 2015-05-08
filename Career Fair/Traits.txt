@@ -1,0 +1,12 @@
+Traits of a Good Computer Science Student.
+Are you...
+1.)Interested in solving puzzles?
+2.)Good with math?
+3.)Logical?
+4.)Interested in technology?
+5.)Interested in challenging yourself?
+6.)Creative?
+7.)Interested in video games?
+8.)Interested in app development?
+
+(Not necessarily in this order.)

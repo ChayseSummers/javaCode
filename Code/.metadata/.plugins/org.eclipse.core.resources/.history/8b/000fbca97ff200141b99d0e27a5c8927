@@ -1,0 +1,13 @@
+import java.util.*;
+import java.io.*;
+public class Chapter11Problems {
+
+	public static void main(String[] args) throws FileNotFoundException {
+		Scanner fileScanner = new Scanner(new File("MolbyDick"));
+		List<String> aList = new ArrayList<String>();
+		System.currentTimeMillis(); //gathers time.
+		
+
+	}
+
+}

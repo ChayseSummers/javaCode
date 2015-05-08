@@ -1,0 +1,11 @@
+
+public class FirstProgram {
+
+
+	public static void main(String[] args) {
+		System.out.print("This is the first line");
+		System.out.print("This is the second line");
+		System.out.print("This is the thrid line");
+	}
+
+}

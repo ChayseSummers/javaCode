@@ -1,0 +1,1771 @@
+!SESSION 2015-01-08 09:06:34.292 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:51.560
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/awt/SystemColor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:51.718
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/nio/file/Files.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:51.783
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/time/Instant.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:51.793
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/time/LocalDate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:51.805
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/time/LocalDateTime.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:51.818
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/time/LocalTime.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:51.828
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/time/MonthDay.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:51.840
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/time/OffsetDateTime.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:51.853
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/time/OffsetTime.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:51.863
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/time/Year.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:51.875
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/time/YearMonth.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:51.889
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/time/ZonedDateTime.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:51.898
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/time/chrono/AbstractChronology.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:51.925
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/time/chrono/HijrahChronology.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:51.940
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/time/format/DateTimeFormatter.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:51.951
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/time/format/DateTimeFormatterBuilder$ReducedPrinterParser.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:51.964
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/time/format/DateTimeFormatterBuilder.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:51.980
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/time/temporal/TemporalAdjusters.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:51.990
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/time/temporal/TemporalQueries.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.005
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/Collections$CheckedList.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.019
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/Collections$CheckedMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.029
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/Collections$CopiesList.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.042
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/Collections$UnmodifiableMap$UnmodifiableEntrySet.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.060
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/PrimitiveIterator$OfDouble.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.070
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/PrimitiveIterator$OfInt.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.098
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/PrimitiveIterator$OfLong.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.113
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/Spliterator$OfDouble.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.123
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/Spliterator$OfInt.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.135
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/Spliterator$OfLong.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.151
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/TreeMap$EntrySpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.162
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/Tripwire.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.190
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/concurrent/ConcurrentSkipListMap$EntrySpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.221
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/function/BiConsumer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.231
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/function/BiPredicate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.243
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/function/BinaryOperator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.256
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/function/Consumer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.266
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/function/DoubleConsumer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.278
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/function/DoublePredicate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.309
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/function/DoubleUnaryOperator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.319
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/function/Function.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.331
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/function/IntConsumer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.835
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/function/IntPredicate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.845
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/function/IntUnaryOperator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.859
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/function/LongConsumer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.869
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/function/LongPredicate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.881
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/function/LongUnaryOperator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.894
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/function/Predicate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.904
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/function/UnaryOperator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.923
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/regex/Pattern.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.938
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/AbstractPipeline.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.948
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/Collectors.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.977
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/DistinctOps$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:52.990
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/DoublePipeline$5$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.004
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/DoublePipeline.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.013
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/FindOps.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.026
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/ForEachOps$ForEachOrderedTask.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.040
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/IntPipeline$7$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.050
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/IntPipeline.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.063
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/LongPipeline$6$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.077
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/LongPipeline.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.087
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/MatchOps.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.099
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/Node$OfDouble.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.113
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/Node$OfInt.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.122
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/Node$OfLong.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.150
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/Node.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.163
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/Nodes$CollectorTask$OfDouble.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.173
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/Nodes$CollectorTask$OfInt.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.185
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/Nodes$CollectorTask$OfLong.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.199
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/Nodes$CollectorTask$OfRef.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.212
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/ReferencePipeline$10$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.225
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/ReferencePipeline$8$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.239
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/ReferencePipeline$9$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.249
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/ReferencePipeline.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.262
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/SliceOps$2.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.275
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/SliceOps$3.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.285
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/SliceOps$4.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.315
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/SliceOps.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.329
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/SortedOps$RefSortingSink.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.340
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/SpinedBuffer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.353
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/StreamSpliterators$DistinctSpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.367
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/StreamSpliterators$DoubleWrappingSpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.378
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/StreamSpliterators$IntWrappingSpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.390
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/StreamSpliterators$LongWrappingSpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.404
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/StreamSpliterators$SliceSpliterator$OfDouble.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.414
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/StreamSpliterators$SliceSpliterator$OfInt.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.426
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/StreamSpliterators$SliceSpliterator$OfLong.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.440
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/StreamSpliterators$SliceSpliterator$OfRef.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.451
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/StreamSpliterators$WrappingSpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.466
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/Tripwire.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.563
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|javax/sql/rowset/spi/SyncFactory.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.749
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|sun/applet/AppletPanel.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.777
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|sun/awt/image/ImageCache.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.792
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|sun/awt/image/MultiResolutionBufferedImage.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.802
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|sun/awt/image/MultiResolutionToolkitImage.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.817
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|sun/awt/shell/Win32ShellFolderManager2$ComInvoker.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.838
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|sun/font/CreatedFontTracker$TempFileDeletionHook.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.875
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|sun/java2d/opengl/OGLRenderQueue.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.921
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|sun/net/ExtendedOptionsImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:53.951
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|sun/nio/ch/ThreadPool.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:54.056
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|sun/security/x509/X509CertImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:54.091
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|sun/swing/JLightweightFrame.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:54.142
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|sun/java2d/d3d/D3DScreenUpdateManager.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:54.167
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|sun/java2d/Disposer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:54.178
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|sun/font/SunFontManager.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:54.194
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|sun/awt/windows/WToolkit.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:54.217
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|sun/awt/AWTAutoShutdown.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:54.240
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|javax/swing/plaf/metal/MetalLookAndFeel.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:54.283
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|javax/swing/JTable.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:54.309
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/function/BiFunction.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:54.322
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/concurrent/ConcurrentMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:54.338
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/Map$Entry.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:54.356
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/Comparator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:54.367
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/BitSet.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:54.379
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/util/Arrays.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:54.401
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/nio/CharBuffer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:54.442
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/lang/reflect/AnnotatedElement.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:16:54.492
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/rt.jar|java/lang/CharSequence.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.111
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/glass/ui/Application.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.124
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/glass/ui/EventLoop.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.138
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/glass/ui/GestureSupport.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.148
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/glass/ui/Platform.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.161
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/glass/ui/Screen.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.175
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/glass/ui/View.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.184
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/glass/ui/Window.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.197
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/glass/ui/win/WinAccessible.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.210
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/glass/ui/win/WinApplication.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.221
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/glass/utils/NativeLibLoader.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.260
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/PlatformUtil.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.276
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/application/HostServicesDelegate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.289
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/application/LauncherImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.299
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/application/PlatformImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.318
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/charts/Legend.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.335
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/collections/TrackableObservableList.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.346
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/collections/UnmodifiableObservableMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.362
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/collections/VetoableListDecorator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.377
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/css/SelectorPartitioning.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.388
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/css/StyleManager.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.403
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/css/StyleMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.418
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/css/parser/CSSLexer$UnitsState.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.429
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/css/parser/CSSLexer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.458
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/font/AndroidFontFinder.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.472
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/font/DFontDecoder.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.482
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/font/FontConfigManager$EmbeddedFontSupport.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.497
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/font/FontConfigManager.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.510
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/font/FontFileReader.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.520
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/font/FontFileWriter$FontTracker$TempFileDeletionHook.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.534
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/font/FontFileWriter.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.547
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/font/MacFontFinder.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.558
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/font/PrismFontFactory.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.572
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/font/PrismFontFile$FileDisposer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.585
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/font/PrismFontFile.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.596
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/font/WoffDecoder.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.628
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/font/coretext/OS.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.644
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/font/directwrite/OS.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.657
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/font/freetype/OSFreetype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.667
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/font/freetype/OSPango.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.684
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/fxml/expression/Expression.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.697
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/geom/AreaOp.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.714
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/iio/ios/IosImageLoader.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.729
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/iio/jpeg/JPEGImageLoader.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.745
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/logging/PrintLogger$PulseData.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.756
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/logging/PrintLogger.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.770
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/media/PrismMediaFrameHandler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.785
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/robot/impl/BaseFXRobot.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.813
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/runtime/SystemProperties.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.827
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/runtime/async/AbstractAsyncOperation.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.840
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/runtime/async/BackgroundExecutor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.852
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/ControlAcceleratorSupport.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.866
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/GlobalMenuAdapter.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.879
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/SelectedCellsMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.890
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/behavior/AccordionBehavior$AccordionFocusModel.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.905
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/behavior/BehaviorBase.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.920
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/behavior/ListViewBehavior.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.931
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/behavior/ScrollBarBehavior.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.946
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/behavior/TableViewBehavior.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.959
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/behavior/TableViewBehaviorBase.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.983
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/behavior/TextFieldBehavior.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:03.997
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/behavior/TextInputControlBehavior.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.011
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/behavior/TreeTableViewBehavior.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.021
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/behavior/TreeViewBehavior.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.035
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/behavior/TwoLevelFocusBehavior.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.048
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/behavior/TwoLevelFocusComboBehavior.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.059
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/behavior/TwoLevelFocusListBehavior.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.073
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/behavior/TwoLevelFocusPopupBehavior.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.086
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/AccordionSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.096
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/BehaviorSkinBase.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.110
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/ButtonSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.122
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/ChoiceBoxSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.148
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/ColorPalette$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.744
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/ColorPalette$ColorPickerGrid.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.756
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/ColorPalette$ColorSquare.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.765
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/ColorPalette.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.776
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/ColorPickerSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.790
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/ComboBoxBaseSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.799
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/ComboBoxListViewSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.810
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/ComboBoxPopupControl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.823
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/ContextMenuContent$ArrowMenuItem.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.832
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/ContextMenuContent$MenuItemContainer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.843
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/ContextMenuContent.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.856
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/CustomColorDialog$ColorRectPane.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.886
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/CustomColorDialog$ControlsPane.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.899
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/CustomColorDialog.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.908
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/DatePickerContent.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.919
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/DatePickerSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.932
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/DoubleFieldSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.941
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/EmbeddedTextContextMenuContent.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.952
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/FXVKSkin$Key.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.966
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/FXVKSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.975
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/InputFieldSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.986
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/IntegerFieldSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:04.999
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/LabeledSkinBase.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.022
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/ListViewSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.032
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/MenuBarSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.045
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/MenuButtonSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.054
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/MenuButtonSkinBase$MenuLabeledImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.065
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/MenuButtonSkinBase.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.078
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/NestedTableColumnHeader.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.087
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/PaginationSkin$IndicatorButton.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.098
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/PaginationSkin$NavigationControl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.111
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/PaginationSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.120
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/ProgressBarSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.131
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/ProgressIndicatorSkin$IndeterminateSpinner.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.144
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/ProgressIndicatorSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.169
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/ScrollBarSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.179
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/ScrollPaneSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.192
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/SliderSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.202
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/SplitMenuButtonSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.212
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/SplitPaneSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.226
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/TabPaneSkin$TabContentRegion.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.235
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/TabPaneSkin$TabControlButtons.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.245
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/TabPaneSkin$TabHeaderArea.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.259
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/TabPaneSkin$TabHeaderSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.268
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/TabPaneSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.279
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/TableCellSkinBase.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.292
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/TableColumnHeader.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.330
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/TableHeaderRow.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.341
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/TableRowSkinBase.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.354
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/TableViewSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.363
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/TableViewSkinBase.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.374
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/TextAreaSkin$ContentView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.387
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/TextAreaSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.396
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/TextFieldSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.407
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/TextInputControlSkin$CaretBlinking.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.420
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/TextInputControlSkin$ContextMenuItem.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.430
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/TextInputControlSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.440
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/TitledPaneSkin$TitleRegion.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.453
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/TitledPaneSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.479
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/ToolBarSkin$ToolBarOverflowMenu.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.492
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/ToolBarSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.501
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/TreeCellSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.512
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/TreeTableRowSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.524
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/TreeTableViewSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.533
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/TreeViewSkin$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.544
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/TreeViewSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.557
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/VirtualContainerBase.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.566
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/VirtualFlow$ClippedContainer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.577
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/VirtualFlow.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.590
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/VirtualScrollBar.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.599
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/control/skin/WebColorFieldSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.629
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/paint/GradientUtils$Parser.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.644
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/traversal/Hueristic2D.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.654
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/scene/web/skin/HTMLEditorSkin.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.665
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/sg/prism/NGCanvas.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.678
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/sg/prism/NGExternalNode.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.692
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/Toolkit.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.702
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/EmbeddedScene.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.715
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/EmbeddedSceneDS.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.724
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/EmbeddedSceneDT.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.735
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/EmbeddedSceneDnD.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.748
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/EmbeddedStage.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.757
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/GlassAppletWindow.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.784
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/GlassScene$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.797
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/GlassScene.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.806
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/GlassSceneDnDEventHandler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.817
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/GlassStage.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.830
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/GlassSystemMenu.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.839
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/GlassViewEventHandler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.850
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/GlassWindowEventHandler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.863
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/OverlayWarning.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.873
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/PaintCollector.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.889
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/PerformanceTrackerHelper$PerformanceTrackerDefaultImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.902
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/PrismImageLoader2$AsyncImageLoader.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.911
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/QuantumRenderer$QuantumThreadFactory.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.935
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/QuantumRenderer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.948
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/QuantumToolkit.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.957
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/RotateGestureRecognizer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.967
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/SceneState.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.980
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/ScrollGestureRecognizer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.988
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/SwipeGestureRecognizer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:05.998
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/ViewScene.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.011
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/WindowStage.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.020
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/tk/quantum/ZoomGestureRecognizer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.030
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/webkit/EventLoopImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.043
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/webkit/UIClientImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.051
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/webkit/WebPageClientImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.083
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/webkit/drt/DumpRenderTree.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.093
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/webkit/prism/RTImage.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.105
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/webkit/prism/WCImageDecoderImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.118
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/webkit/prism/WCRadialGradient.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.127
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/webkit/prism/WCRenderQueueImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.137
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/webkit/theme/ContextMenuImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.668
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/webkit/theme/PopupMenuImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.680
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/webkit/theme/RenderThemeImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.690
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/javafx/webkit/theme/ScrollBarThemeImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.701
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/media/jfxmedia/locator/Locator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.711
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/media/jfxmediaimpl/HostUtils.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.721
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/media/jfxmediaimpl/MediaDisposer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.748
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/media/jfxmediaimpl/NativeMediaAudioClipPlayer$Enthreaderator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.757
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/media/jfxmediaimpl/NativeMediaManager.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.768
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/media/jfxmediaimpl/platform/PlatformManager.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.782
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/prism/d3d/D3DPipeline.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.792
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/prism/d3d/D3DResourceFactory.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.805
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/prism/impl/BufferUtil.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.814
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/prism/impl/PrismSettings.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.825
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/prism/impl/ps/BaseShaderGraphics.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.835
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/prism/impl/ps/CachingShapeRepState$MaskCache.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.845
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/prism/impl/shape/NativePiscesRasterizer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.855
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/prism/j2d/J2DFontFactory.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.872
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/prism/sw/SWPipeline.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.895
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/scenario/animation/AbstractMasterTimer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.905
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/scenario/animation/AnimationPulse$PulseData.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.916
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/scenario/animation/shared/TimelineClipCore.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.928
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/scenario/effect/Effect.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.939
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/scenario/effect/ImageData.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.952
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/scenario/effect/impl/BufferUtil.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.967
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/scenario/effect/impl/ImagePool.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.977
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/scenario/effect/impl/Renderer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:06.986
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/scenario/effect/impl/RendererFactory.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.011
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/scenario/effect/impl/sw/sse/SSERendererDelegate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.022
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/webkit/MainThread.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.032
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/webkit/Timer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.041
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/webkit/Utilities.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.067
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/webkit/WatchdogTimer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.077
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/webkit/WebPage.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.106
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/webkit/graphics/WCMediaPlayer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.116
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/webkit/graphics/WCRenderQueue.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.127
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/webkit/network/NetworkContext.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.136
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/webkit/network/SocketStreamHandle.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.147
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/webkit/network/URLLoader.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.156
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|com/sun/webkit/perf/PerfLogger.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.166
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/animation/Animation$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.176
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/animation/AnimationTimer$AnimationTimerReceiver.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.186
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/animation/ParallelTransition.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.196
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/animation/SequentialTransition.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.239
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/application/Preloader.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.263
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/ListPropertyBase.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.274
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/MapPropertyBase.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.286
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/ReadOnlyBooleanProperty$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.295
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/ReadOnlyBooleanProperty$2.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.305
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/ReadOnlyDoubleProperty$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.318
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/ReadOnlyDoubleProperty$2.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.327
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/ReadOnlyFloatProperty$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.337
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/ReadOnlyFloatProperty$2.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.350
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/ReadOnlyIntegerProperty$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.358
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/ReadOnlyIntegerProperty$2.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.370
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/ReadOnlyLongProperty$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.396
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/ReadOnlyLongProperty$2.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.409
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/SetPropertyBase.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.420
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/adapter/JavaBeanBooleanProperty.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.433
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/adapter/JavaBeanDoubleProperty.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.442
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/adapter/JavaBeanFloatProperty.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.452
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/adapter/JavaBeanIntegerProperty.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.465
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/adapter/JavaBeanLongProperty.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.474
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/adapter/JavaBeanObjectProperty.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.484
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/adapter/JavaBeanStringProperty.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.509
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/adapter/ReadOnlyJavaBeanBooleanProperty.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.518
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/adapter/ReadOnlyJavaBeanDoubleProperty.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.528
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/adapter/ReadOnlyJavaBeanFloatProperty.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.557
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/adapter/ReadOnlyJavaBeanIntegerProperty.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.566
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/adapter/ReadOnlyJavaBeanLongProperty.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.581
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/adapter/ReadOnlyJavaBeanObjectProperty.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.593
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/beans/property/adapter/ReadOnlyJavaBeanStringProperty.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.603
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/collections/FXCollections$CheckedObservableList.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.614
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/collections/FXCollections$CheckedObservableMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.626
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/collections/FXCollections$CheckedObservableSet.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.636
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/collections/FXCollections$SynchronizedObservableList.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.646
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/collections/FXCollections$SynchronizedObservableMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.658
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/collections/FXCollections$SynchronizedObservableSet.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.667
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/collections/FXCollections$UnmodifiableObservableListImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.677
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/collections/FXCollections$UnmodifiableObservableSet.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.708
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/collections/transformation/FilteredList.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.718
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/collections/transformation/TransformationList.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.728
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/concurrent/ScheduledService$4.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.740
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/concurrent/Service.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.749
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/concurrent/Task$TaskCallable.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.759
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/concurrent/Task.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.773
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/embed/swing/JFXPanel$HostContainer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.782
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/embed/swing/JFXPanel.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.792
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/embed/swing/SwingDnD.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.805
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/embed/swing/SwingFXUtils$FwSecondaryLoop.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.814
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/embed/swing/SwingFXUtils.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.824
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/embed/swing/SwingNode$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.853
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/embed/swing/SwingNode$SwingNodeContent.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.863
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/embed/swing/SwingNode.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.875
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/event/Event.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.890
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/Camera.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.901
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/ImageCursor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.913
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/LightBase.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.923
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/Node$NodeTransformation.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.935
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/Node.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.948
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/PropertyHelper.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.959
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/Scene$ClickCounter.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.969
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/Scene$KeyHandler.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.982
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/Scene.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:07.992
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/chart/AreaChart.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.020
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/chart/Axis.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.033
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/chart/BarChart.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.041
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/chart/BubbleChart.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.052
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/chart/CategoryAxis.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.065
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/chart/LineChart.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.073
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/chart/NumberAxis$DefaultFormatter.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.084
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/chart/PieChart.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.097
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/chart/ScatterChart.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.106
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/chart/StackedAreaChart.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.116
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/chart/StackedBarChart.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.135
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/chart/XYChart.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.144
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/CheckBoxTreeItem.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.154
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/ChoiceBox$ChoiceBoxSelectionModel.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.184
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/ChoiceBox.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.193
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/ComboBox$ComboBoxSelectionModel.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.203
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/ComboBox.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.216
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/ComboBoxBase.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.226
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/Control.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.236
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/ControlUtils.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.249
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/DatePicker.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.257
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/FocusModel.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.268
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/Label.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.282
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/ListCell.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.291
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/ListView$ListViewBitSetSelectionModel.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.301
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/ListView$ListViewFocusModel.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.327
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/ListView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.337
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/Menu.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.348
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/MultipleSelectionModelBase.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.367
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/SkinBase.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.378
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/Tab.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.389
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/TabPane$TabPaneSelectionModel.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.401
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/TabPane.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.410
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/TableCell.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.420
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/TableColumn.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.432
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/TableColumnBase.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.441
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/TableRow.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.452
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/TableView$TableViewArrayListSelectionModel.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.465
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/TableView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.505
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/TextInputControl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.518
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/ToggleButton$2.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.528
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/Tooltip$TooltipBehavior.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.539
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/TreeCell.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.552
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/TreeItem.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.561
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/TreeTableCell.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.571
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/TreeTableColumn.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.584
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/TreeTableRow.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.594
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/TreeTableView$TreeTableViewArrayListSelectionModel.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.604
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/TreeTableView$TreeTableViewFocusModel$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.616
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/TreeTableView$TreeTableViewFocusModel.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.625
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/TreeTableView$TreeTableViewSelectionModel.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.652
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/TreeTableView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.665
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/TreeView$TreeViewBitSetSelectionModel.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.674
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/TreeView$TreeViewFocusModel$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.684
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/TreeView$TreeViewFocusModel.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.696
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/TreeView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.711
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/cell/CellUtils.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.722
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/cell/CheckBoxListCell.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.735
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/cell/CheckBoxTableCell.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.744
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/cell/CheckBoxTreeCell.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.754
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/cell/CheckBoxTreeTableCell.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.767
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/cell/ChoiceBoxListCell.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.776
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/cell/ChoiceBoxTableCell.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.800
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/cell/ChoiceBoxTreeCell.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.813
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/cell/ChoiceBoxTreeTableCell.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.821
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/cell/ComboBoxListCell.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.831
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/cell/ComboBoxTableCell.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.844
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/cell/ComboBoxTreeCell.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.854
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/cell/ComboBoxTreeTableCell.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.864
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/cell/DefaultTreeCell.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.877
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/cell/ProgressBarTableCell.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.887
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/cell/ProgressBarTreeTableCell.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.897
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/cell/TextFieldListCell.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.910
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/cell/TextFieldTableCell.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.920
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/cell/TextFieldTreeCell.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.946
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/control/cell/TextFieldTreeTableCell.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.970
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/image/Image$Animation.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.983
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/input/Dragboard.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:08.999
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/layout/FlowPane.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.013
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/layout/GridPane.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.023
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/layout/HBox.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.035
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/layout/Region.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.049
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/layout/StackPane.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.059
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/layout/TilePane.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.070
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/layout/VBox.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.084
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/media/Media$_MetadataListener.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.093
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/media/MediaPlayer$_BufferListener.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.128
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/media/MediaPlayer$_MarkerListener.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.137
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/media/MediaPlayer$_PlayerStateListener.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.147
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/media/MediaPlayer$_PlayerTimeListener.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.160
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/media/MediaPlayer$_SpectrumListener.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.169
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/media/MediaPlayer$_VideoTrackSizeListener.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.180
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/media/MediaPlayer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.193
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/media/MediaTimerTask.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.202
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/media/MediaView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.218
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/shape/MeshView$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.237
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/shape/Shape3D$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.249
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/text/Text.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.260
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/text/TextFlow.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.276
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/web/WebEngine$InspectorClientImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.299
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/web/WebEngine$PulseTimer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.314
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/web/WebEngine.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.327
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/web/WebHistory$Entry.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.336
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/web/WebHistory.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.346
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/scene/web/WebView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.359
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/stage/PopupWindow.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:09.368
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/jfxrt.jar|javafx/stage/Screen.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.265
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/AccessorPropertyDescriptor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.277
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/ArrayBufferView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.294
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/DataPropertyDescriptor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.303
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/GenericPropertyDescriptor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.316
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/Global.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.349
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeArray$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.359
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeArray$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.374
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeArray.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.386
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeArrayBuffer$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.397
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeArrayBuffer$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.411
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeArrayBuffer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.424
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeBoolean$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.434
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeBoolean$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.449
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeDataView$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.462
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeDataView$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.472
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeDataView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.486
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeDate$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.514
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeDate$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.525
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeDebug$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.540
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.553
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.563
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.577
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeEvalError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.590
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeEvalError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.601
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeEvalError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.615
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeFloat32Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.629
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeFloat32Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:11.639
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeFloat64Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.138
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeFloat64Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.170
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeFunction$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.178
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeFunction$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.190
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeInt16Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.206
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeInt16Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.215
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeInt32Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.226
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeInt32Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.243
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeInt8Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.251
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeInt8Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.263
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeJava$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.279
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeJavaImporter$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.288
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeJavaImporter$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.319
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeJSAdapter$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.332
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeJSON$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.342
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeMath$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.356
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeNumber$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.369
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeNumber$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.380
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeObject$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.394
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeObject$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.407
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRangeError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.416
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRangeError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.431
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRangeError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.443
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeReferenceError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.453
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeReferenceError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.483
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeReferenceError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.495
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRegExp$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.505
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRegExp$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.519
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRegExp.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.532
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRegExpExecResult.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.542
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeString$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.556
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeString$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.569
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeString.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.579
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeSyntaxError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.592
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeSyntaxError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.605
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeSyntaxError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.614
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeTypeError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.645
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeTypeError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.658
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeTypeError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.668
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint16Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.682
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint16Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.695
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint32Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.705
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint32Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.719
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint8Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.731
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint8Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.742
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint8ClampedArray$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.756
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint8ClampedArray$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.768
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeURIError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.778
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeURIError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-01-08 09:17:12.806
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeURIError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor

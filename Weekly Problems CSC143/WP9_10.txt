@@ -1,0 +1,19 @@
+Weekly Problem: Using Sets
+
+As explained in the textbook, a TreeSet uses a data structure called a binary search tree to keep the elements it stores in sorted order. This is useful if you need the elements to be ordered, but it tends to make the TreeSet a bit slower than HashSet. In this weekly exercise you will explore how the time efficiency of the two types of Sets differs. To complete your analysis, you are to do the following:
+
+ 1. Choose 2 books by the same author (use www.gutenberg.org (Links to an external site.)).
+
+2. Store the text of each book in a TreeSet and in a HashSet. You will end up with 4 sets total: BookA_hash, BookA_tree, BookB_hash, BookB_tree.
+
+3. Iterate through the words in BookA_hash and search for these words in both BookB_tree and in BookB_hash.
+
+4. Iterate through the words in Book A_tree and search for these words in both BookB_tree and BookB_hash.
+
+5. Iterate through the words in BookB_hash and search for these words in both BookA_tree and in BookA_hash.
+
+6. Iterate through the words in Book B_tree and search for these words in both BookA_tree and BookA_hash.
+
+7. Keep track of the time each search took (you should have results from 8 searches total). From your results, what do you conclude about the time required to iterate through each Set type? About the time to search through each Set type?
+
+8. Submit both your code and your results (nicely formatted as a table please) and responses from part 7.

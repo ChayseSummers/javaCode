@@ -1,0 +1,56 @@
+import java.util.*;
+import java.io.*;
+
+public class Benford {
+	private static List<Integer> benfordList;
+	
+	public Benford(){
+		benfordList = new ArrayList<Integer>();
+	}
+	
+	public void readCounts(String inputFile){
+		//loadCounts();
+		char x;
+		try {
+			Scanner fileScanner = new Scanner(new File (inputFile));
+			System.out.print("Loading counts... ");
+			while(fileScanner.hasNext()){
+				//System.out.println((int)fileScanner.next().charAt(0));
+				x = fileScanner.next().charAt(0);
+				System.out.println(x);
+				//x = (int)x;
+				if(x>48 && x<=57){
+					benfordList.add(x);
+				}
+				else{
+					fileScanner.next();
+				}
+			}
+			fileScanner.close();
+			System.out.println(" done.");
+				
+		} catch (FileNotFoundException e) {
+			System.out.println("File not found, please check pathway and try again.");
+		}
+		int[] counts = new int[9];
+		System.out.println(benfordList.size());
+		for(int number:benfordList){
+			counts[number-49] = counts[number-49]+1;
+		}
+		benfordList.clear();
+		for(int number:counts){
+			benfordList.add(number);
+		}
+		//System.out.println(counts[8]);	
+		}
+
+	public static List<Integer> getBenfordList() {
+		return benfordList;
+	}
+
+	public static void setBenfordList(List<Integer> benfordList) {
+		Benford.benfordList = benfordList;
+	}
+	
+
+}

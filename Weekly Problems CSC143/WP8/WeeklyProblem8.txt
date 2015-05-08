@@ -1,0 +1,1 @@
+Write a java program to read 2 books by the same author (from www.gutenberg.org) into an arraylist collection to perform character and word analysis to report number of characters, total number of words and number of lines in each of the books. Submit code and the output from your program.

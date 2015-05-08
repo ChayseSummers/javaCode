@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;ForLoops.java&apos; to &apos;ForLoops&apos;&#x0D;&#x0A;- Original project: &apos;StringConcactination&apos;&#x0D;&#x0A;- Destination element: &apos;ForLoops&apos;&#x0D;&#x0A;- Original element: &apos;ForLoops.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=ForLoops" element1="/src&lt;{ForLoops.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1421343961838" units="1" version="1.0"/>
+</session>

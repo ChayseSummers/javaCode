@@ -1,0 +1,11 @@
+
+public class Chapter2Problems {
+
+	
+	public static void main(String[] args) {
+		int age = 49;
+		System.out.println(age);
+
+	}
+
+}

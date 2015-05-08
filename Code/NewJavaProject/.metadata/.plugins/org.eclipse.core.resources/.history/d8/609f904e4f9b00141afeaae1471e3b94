@@ -1,0 +1,13 @@
+
+public class Chapter2Problems {
+
+	
+	public static void main(String[] args) {
+		int age = 49;
+		
+		double gpa = 3.7;
+		System.out.println(age); System.out.println(gpa);
+
+	}
+
+}

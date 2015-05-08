@@ -1,0 +1,17 @@
+Class Schedule:
+
+CSC100 Beginning Computers 8-8:50am DAILY.
+	Item 5102, Section 02, TEC 122
+
+CSC110 Intro to Computer Science 11am-12:50pm MW, Lab F 11-11:50am
+	Item 6100, Section 01, OLY 102
+
+CSC142 Computer Programming Hybrid: 9-10:50am TTh
+	Item 6102, Section 77, OLY 102
+
+CSC142 Online 
+	Item 9865, Section 70, WEB
+
+CSC143 Computer Programming II Hybrid: 9-10:50am MW
+	Item 6103, Section 77, OLY 102
+

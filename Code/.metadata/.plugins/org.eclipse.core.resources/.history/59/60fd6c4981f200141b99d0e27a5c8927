@@ -1,0 +1,35 @@
+import java.util.*;
+import java.io.*;
+public class Chapter11Problems {
+
+	public static void main(String[] args) throws FileNotFoundException {
+		Scanner fileScanner = new Scanner(new File("MolbyDick"));
+		List<String> aList = new ArrayList<String>();
+		List<String> lnkdList = new LinkedList<String>();
+		loadWords(fileScanner, aList);
+		//fileScanner.reset(); doesn't work with reseting scanner, need to close and reopen.
+		fileScanner.close();
+		long startTimeAList = System.currentTimeMillis();
+		fileScanner = new Scanner(new File("MolbyDick"));
+		long endTimeAList = System.currentTimeMillis();
+		System.out.println("ArrayList size: "+aList.size());
+		System.out.println("Time taken to load words to Alist: "+(endTimeAList-startTimeAList)*1000);
+		long startTimeLnkList = System.currentTimeMillis();
+		loadWords(fileScanner, lnkdList);
+		long endTimeLnkList = System.currentTimeMillis();
+		fileScanner.close();
+		System.out.println("LinkedList size: "+lnkdList.size());
+		System.out.println("Time taken to load words to Lnklist: "+(endTimeLnkList-startTimeLnkList)*1000);
+		System.currentTimeMillis(); //gathers time.
+		
+
+	}
+
+	public static void loadWords(Scanner input, List<String> list){
+		System.out.print("loading words... ");
+		while(input.hasNext()){
+			list.add(input.next());
+		}
+		System.out.println("done.");
+	}
+}

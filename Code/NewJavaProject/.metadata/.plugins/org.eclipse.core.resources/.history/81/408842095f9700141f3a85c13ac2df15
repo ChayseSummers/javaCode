@@ -1,0 +1,18 @@
+
+public class FirstProgram {
+
+
+	public static void main(String[] args) {
+		System.out.print("This is the first line\n This is the second line/n This is the thrid line/n");
+//		System.out.print("This is the second line\n");
+//		System.out.print("This is the thrid line\n");
+		System.out.print("Three times four is:");
+		System.out.println(3*4);
+	}
+	
+	public static void this_is_some_name_4you () {
+		
+	
+	}
+
+}

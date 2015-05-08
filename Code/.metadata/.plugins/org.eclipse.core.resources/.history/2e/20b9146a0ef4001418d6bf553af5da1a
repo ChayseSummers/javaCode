@@ -1,0 +1,20 @@
+import java.util.*;
+public class mapProblems {
+
+	public static void main(String[] args) {
+		Map<String, String> m1 = new TreeMap<String, String>();
+		
+		m1.put("Darian", "Engineering");
+		m1.put("Chayse", "Computer Science");
+		m1.put("Max", "Computer Science");
+		m1.put("Tommy","Electrical Engineering");
+		
+		System.out.println(m1); //Tree stores alphabetically. Maps use key/value pairs.
+		
+		System.out.println(m1.get("Tommy")); //returns value using key. If key doesn't exist returns null.
+		
+		m1.put("Tommy", "Physics");
+		System.out.println(m1);
+	}
+
+}

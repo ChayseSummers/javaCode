@@ -1,0 +1,17 @@
+Weekly Problem 2:
+
+A useful technique for catching typing errors is to use a check digit.
+
+For example, International Article Number 13 (EAN 13) uses the last digit (also known as checkdigit) to validate the correctness of the first 12 digits.
+
+For more info on EAN13, see: http://en.wikipedia.org/wiki/International_Article_Number_(EAN) (Links to an external site.)
+
+If EAN13 is 4006381333931  the check code is computed as follows:
+Calculation First 12 digits of the barcode 	4 	0 	0 	6 	3 	8 	1 	3 	3 	3 	9 	3
+Weights 					1 	3 	1 	3 	1 	3 	1 	3 	1 	3 	1 	3
+Multiplied by weight 				4 	0 	0 	18 	3 	24 	1 	9 	3 	9 	9 	9
+Sum 																	89
+
+The nearest multiple of 10 that is equal or higher than the sum, is 90. Subtract them: 90 - 89 = 1, this is the last digit of the barcode.
+
+Write a Java program that asks the user for a EAN13 and validates it as either correct or incorrect. Use all validation techniques including handling exceptions in code.

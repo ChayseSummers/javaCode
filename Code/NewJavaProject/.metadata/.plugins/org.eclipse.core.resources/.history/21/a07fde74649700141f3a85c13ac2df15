@@ -1,0 +1,51 @@
+/*
+ *This program is our first program to try a few things.
+ *Written by: Chayse Summers
+ *Version: 1.08.15 
+ */
+
+
+public class FirstProgram {
+	
+	/*
+	 * This is comments for "main" method.
+	 */
+	public static void main(String[] args) {
+		drawBox ();
+		drawBox ();
+		drawBox ();
+		drawCone();
+//		System.out.print("This is the first line\nThis is the second line\nThis is the thrid line\n");
+//		System.out.println("This is the first line");
+//		System.out.println("This is the second line");
+//		System.out.println("This is the thrid line");
+// Could be done either way.
+//		System.out.println("Three times four is:"+3*4);
+//		System.out.println("This is a double quote: \" "+"This is a backslash: \\");
+//		System.out.println("This is four back slashes: \\\\\\\\");
+//		System.out.println("This is four forward slashes: ////");
+//		System.out.println("  \\/");
+//		System.out.println(" \\\\//");
+//		System.out.println("\\\\\\///");//This comment is for this line particularly.
+//		System.out.println("///\\\\\\");
+//		System.out.println(" //\\\\");
+//		System.out.println("  /\\");
+	}
+	
+	public static void drawBox () {
+		System.out.println("+------+");
+		System.out.println("|      |");
+		System.out.println("|      |");
+		System.out.println("+------+");
+		
+	}
+		
+	public static void drawCone () {
+		System.out.println("   ^");
+		System.out.println("  / \\");
+		System.out.println(" /   \\");
+	}
+	
+	}
+
+}
