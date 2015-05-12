@@ -9,7 +9,7 @@ public class dna {
 	public static void main(String[] args) throws FileNotFoundException {
 		Scanner console = new Scanner(System.in);
 		String inFile = introduction(console,1);
-		Printstream outFile = new introduction(console,2);
+		PrintStream outFile = new introduction(console,2);
 		int[] nucCount = nucCounter(console, inFile);
 		double total = totalFinder(nucCount);
 		double[] nucPerCodon = massPercent(total, nucCount);

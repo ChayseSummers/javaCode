@@ -1,0 +1,13 @@
+import java.util.*;
+public class ArrayListClient {
+
+	public static void main(String[] args) {
+		ArrayList<Integer> intList = new ArrayList<Integer>();
+		CSC143ArrayList ourList = new CSC143ArrayList();
+		for(int i = 0; i<=6; i++){
+			ourList.add(i);
+		}
+		System.out.println(ourList);
+	}
+
+}

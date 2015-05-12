@@ -1,0 +1,38 @@
+import java.util.*;
+import java.io.*;
+public class WP11 {
+	private static Map<String, String> RNATable = new HashMap<String, String>();
+	private static String strand = "";
+	private static String result = "";
+
+	public static void main(String[] args) throws FileNotFoundException {
+		Scanner fileScanner;
+		PrintStream outFile;
+		try {
+			fileScanner = new Scanner(new File ("E:/CSC142_143/DataFiles/RNATable.txt"));
+			outFile = new PrintStream(new File ("E:/CSC142_143/DataFiles/RNAOut.txt"));
+			while(fileScanner.hasNext()){
+				RNATable.put(fileScanner.next(),fileScanner.next());
+			}
+			fileScanner = new Scanner(new File("E:/CSC142_143/DataFiles/RNAString.txt"));
+			strand = fileScanner.next();
+			fileScanner.close();
+			System.out.print("Loading");
+			for(int i = 0; i<strand.length(); i+=3){
+				System.out.print(".");
+				String section = strand.substring(i, i+3);
+				if(section.equals("UGA")||section.equals("UAA")||section.equals("UAG")){
+					System.out.println();
+					System.out.println("complete.");
+				}
+				else{
+					result = result + RNATable.get(section);
+				}
+			}
+			outFile.println(result);
+
+		} catch (FileNotFoundException e) {
+			System.out.println("File not found! Please check pathway and try again.");
+		}
+	}
+}

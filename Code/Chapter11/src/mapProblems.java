@@ -2,6 +2,7 @@ import java.util.*;
 public class mapProblems {
 
 	public static void main(String[] args) {
+		//First String is the key, second is the value. Values can be duplicate, keys cannot.
 		Map<String, String> m1 = new HashMap<String, String>(); //Can switch between HashMap and TreeMap and code will still work.
 		
 		m1.put("Darian", "Engineering");

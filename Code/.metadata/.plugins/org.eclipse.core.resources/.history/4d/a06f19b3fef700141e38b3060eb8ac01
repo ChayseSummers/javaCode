@@ -1,0 +1,49 @@
+import java.util.Arrays;
+
+
+public class CSC143ArrayList {
+	//data
+	private int[] data;
+	private int size;
+	//constructor(s)
+	public CSC143ArrayList(){
+		data = new int[10];
+		size = 0;
+	}
+	public CSC143ArrayList(int length){
+		data = new int[length];
+		size = 0;
+	}
+	//methods
+	public int size(){
+		return this.size;
+	}
+	
+	public boolean isEmpty(){
+		return (size==0);
+	}
+	
+	public int get(int index){
+		return data[index];
+	}
+	public boolean add(int val){
+		if(size>=data.length){
+			int[] temp = new int[data.length*2];
+			int i = 0;
+			for(int entry:data){
+				temp[i] = entry;
+				i++;
+			}
+			data = temp;
+		}
+		data[size]=val;
+		++size;
+		
+		return true;
+	}
+	
+	public String toString(){ //This is hack, need to use fence post method to write our own toString.
+		return Arrays.toString(data);
+	}
+
+}

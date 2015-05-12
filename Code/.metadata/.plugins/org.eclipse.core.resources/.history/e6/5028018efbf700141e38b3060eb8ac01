@@ -1,0 +1,33 @@
+import java.util.Arrays;
+
+
+public class CSC143ArrayList {
+	//data
+	private int[] data;
+	private int size;
+	//constructor(s)
+	public CSC143ArrayList(){
+		data = new int[10];
+		size = 0;
+	}
+	public CSC143ArrayList(int length){
+		data = new int[length];
+		size = 0;
+	}
+	//methods
+	public boolean add(int val){
+		if(size<data.length){
+			data[size]=val;
+			++size;
+		}
+		
+		return true;
+	}
+	
+	@Override
+	public String toString() {
+		return "CSC143ArrayList [data=" + Arrays.toString(data) + ", size="
+				+ size + ", getClass()=" + getClass() + ", hashCode()="
+				+ hashCode() + ", toString()=" + super.toString() + "]";
+	}
+}
