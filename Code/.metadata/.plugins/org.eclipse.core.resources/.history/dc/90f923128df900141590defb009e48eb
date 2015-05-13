@@ -1,0 +1,18 @@
+
+public class RecursionProblems {
+
+	public static void main(String[] args) {
+		testingRecursion(10);
+
+	}
+
+	private static void testingRecursion(int num) {
+		try{
+		System.out.println("Hello!");
+		testingRecursion(num-1);
+		}catch(StackOverflowError e){
+			System.out.println("Error! Recursion never stops! "+e);
+		}
+	}
+
+}

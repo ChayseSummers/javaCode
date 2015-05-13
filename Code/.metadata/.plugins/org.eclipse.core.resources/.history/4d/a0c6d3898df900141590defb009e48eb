@@ -1,0 +1,24 @@
+
+public class RecursionProblems {
+
+	public static void main(String[] args) {
+		testingRecursion(10);
+
+	}
+
+	private static void testingRecursion(int num) {
+		try{
+			if(num>0){
+				System.out.println(num+": Hello!");
+				testingRecursion(num-1);
+			}
+			else{
+				System.out.println("Finished.");
+			}
+		
+		}catch(StackOverflowError e){
+			System.out.println("Error! Recursion never stops! "+e);
+		}
+	}
+
+}
