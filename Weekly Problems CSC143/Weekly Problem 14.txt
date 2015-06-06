@@ -1,0 +1,19 @@
+Here are five problems for 2 points each.
+
+    1. What is the final output?
+
+Add {1, 3, 5, 7} to a stack #1
+Remove three items from stack, place in queue
+Remove two items from queue, place in stack #2
+Remove one item from stack #2, place in queue
+Remove one item from stack #1, place in stack #2
+
+    2. A letter means push and an asterisk means pop in the following sequence. Give the sequence of values returned by the pop operations when this sequence of operations is performed on an initially empty LIFO stack. E A S * Y * Q U E * * * S T * * * I O * N * * *
+
+    3. A letter means add and an asterisk means remove in the following sequence. Give the sequence of values returned by the remove operation when this sequence of operations is performed on an initially empty FIFO queue. E A S * Y * Q U E * * * S T * * * I O * N * * *
+
+   4. Write a method mirImage that accepts a stack of integers as a parameter and appends the stack’s contents to itself in reverse order.
+    When a stack, front-->[42, 33, -17]<--back is passed to this method, the stack becomes, front-->[42, 33, -17, -17, 33, 42]<--back.
+
+   5. Write a method that moves the nth element (counting from the front, which is element 1) of the queue to the front, leaving the order of all other elements unchanged.
+

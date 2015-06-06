@@ -1,0 +1,26 @@
+
+public class CSC143LinkedList<E> {
+	private Node<E> head;
+	
+	public String toString(){
+		if(head!=null)
+			return head.toString();
+		else
+			return "null";
+	}
+	
+	public void add(E val){
+		head = new Node<E>(val,head);
+	}
+
+	public static void main(String[] args) {
+		CSC143LinkedList<Integer> list = new CSC143LinkedList<Integer>();
+		list.add(10);
+		System.out.println(list);
+		list.add(20);
+		list.add(30);
+		System.out.println(list);
+
+	}
+
+}

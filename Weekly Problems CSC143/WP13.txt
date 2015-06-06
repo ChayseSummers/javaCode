@@ -1,0 +1,69 @@
+Problem 1
+
+These are taken from Section 13.2 in your textbook (pp. 861-863).
+
+1.1   Suppose an algorithm takes exactly the given number of statements for each value below, in terms of an input size N. Give a tight big-Oh bound for each algorithm, representing the closest complexity class for that algorithm based on that run-time.
+
+a)      ½ N Log N + log N
+
+b)      N2 – (N + N log N + 1000)
+
+c)       N2 log N + 2N
+
+d)      ½ (3N + 5 + N)
+
+e)      (2N + 5 + N4)/N
+
+f)       log(2N)
+
+g)      N! + 2N
+
+1.2   Approximate the run-time of the following code fragments, in terms of n:
+
+a)      int sum = 0;
+
+for (int j = 1; j < n; j++){
+
+     sum++;
+
+     if (j % 2 == 0){
+
+          sum++;
+
+     }
+
+}
+
+b)      int sum = 0;
+
+for (int i = 1; i <= n * 2; i++){
+
+     for (int j = 1; j <= n; j++){
+
+            sum++;
+
+     }
+
+}
+
+for (int j = 1; j < 100; j++){
+
+     sum++;
+
+     sum++:
+
+}
+
+c)       int sum = 0;
+
+for (int i = 1; i <= n; i++){
+
+     for( int j = 1; j <= 1000000; j++){
+
+          sum += 10;
+
+     }
+
+}
+
+Sum += 9999;

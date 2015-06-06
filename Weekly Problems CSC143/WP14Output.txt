@@ -1,0 +1,42 @@
+Chayse Summers
+CSC143 - Gandham
+6/2/15
+WP14
+
+1. (3,5) in que and (7,1) in stack two with 1 on top of stack.
+
+2.) SYEUQTSAONIE
+
+3.) EASYQUESTION
+
+4.)
+
+	public static Stack<Integer> mirImage(Stack<Integer> x){
+		Stack<Integer> temp = new Stack<Integer>();
+		ArrayList<Integer> d = new ArrayList<Integer>();
+		for(int i = x.size();i>0;i--){
+			d.add(x.peek());
+			x.pop();
+		}
+		for(int i=d.size()-1;i>=0;i--){
+			x.push(d.get(i));
+		}
+		for(int i=0;i<d.size();i++){
+			x.push(d.get(i));
+		}
+		return x;
+	}
+
+5.) public static Queue<Integer> cuts(Queue<Integer> que,int num){
+		ArrayList <Integer> temp = new ArrayList<Integer>();
+		while(que.size()>0){
+			temp.add(que.remove());
+		}
+		int tempNum = temp.get(num-1);
+		temp.remove(num-1);
+		que.add(tempNum);
+		for(int element:temp){
+			que.add(element);
+		}
+		return que;
+	}

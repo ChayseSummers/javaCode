@@ -1,0 +1,29 @@
+import java.util.*;
+import java.io.*;
+public class testClient {
+	private ArrayList<File> books = new ArrayList<File>();
+	private static long startTime;
+	private static long endTime;
+
+	public static void main(String[] args) throws FileNotFoundException {
+		File z = new File("Macbeth.txt");
+		File w = new File("MuchAdoAboutNothing.txt");
+		File u = new File("OliverTwist.txt");
+		
+		
+		
+		getReport(z);
+		getReport(w);
+		getReport(u);
+	}
+
+	private static void getReport(File z) throws FileNotFoundException {
+		startTime = System.currentTimeMillis();
+		BookAnalyzer a = new BookAnalyzer("posWords.txt","negWords.txt",z);
+		a.output();
+		endTime = System.currentTimeMillis();
+		
+		System.out.printf("Time taken for sentiment analysis of %s: %d milliseconds.\n\n",z,(endTime-startTime));
+	}
+
+}

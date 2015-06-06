@@ -1,0 +1,75 @@
+Chayse Summers
+C143 - Gandham
+June 5th, 2015
+Assignment 3, Sentiment Analysis
+
+In test mode (using default sentiment lists):
+Welcome to Sentiment Analysis 2015!
+The book analyzed is: Macbeth.txt
+The number of negative words: 13
+The number of positive words: 88
+The number of words total: 17737
+The percentage of positive words: 0.50 percent
+The percentage of negative words: 0.07 percent
+The most common positive word: like
+The most common negative word: cry
+This book is a Comedy
+Time taken for sentiment analysis of Macbeth.txt: 312 milliseconds.
+
+The book analyzed is: MuchAdoAboutNothing.txt
+The number of negative words: 19
+The number of positive words: 149
+The number of words total: 22081
+The percentage of positive words: 0.67 percent
+The percentage of negative words: 0.09 percent
+The most common positive word: like
+The most common negative word: bad
+This book is a Comedy
+Time taken for sentiment analysis of MuchAdoAboutNothing.txt: 203 milliseconds.
+
+The book analyzed is: OliverTwist.txt
+The number of negative words: 92
+The number of positive words: 578
+The number of words total: 157981
+The percentage of positive words: 0.37 percent
+The percentage of negative words: 0.06 percent
+The most common positive word: love
+The most common negative word: cry
+This book is a Comedy
+Time taken for sentiment analysis of OliverTwist.txt: 3609 milliseconds.
+
+--------------------------------------------------------------------------------------------------
+
+In non-test mode (using provided posWords.txt and negWords.txt, two books Anna Karenina by graf Leo Tolstoy & The Life and Opinions of Tristram Shandy, Gentleman by Laurence Sterne):
+
+Welcome to Sentiment Analysis 2015!
+Before we get started there's a few things I need to find out.
+First, lets make a list of the books we want to do analysis of.
+Please enter file pathway, enter true to move on to the next prompt: TristramShandy.txt
+Please enter file pathway, enter true to move on to the next prompt: AnnaKarenina.txt
+Please enter file pathway, enter true to move on to the next prompt: true
+Next, will you be inputing your own positive and negative word lists?
+Enter a yes or no: yes
+Please enter the file pathway for the positive list: posWords.txt
+Please enter the file pathway for the negative list: negWords.txt
+The book analyzed is: TristramShandy.txt
+The number of negative words: 3393
+The number of positive words: 3900
+The number of words total: 178902
+The percentage of positive words: 2.18 percent
+The percentage of negative words: 1.90 percent
+The most common positive word: best
+The most common negative word: lost
+This book is a Comedy
+Time taken for sentiment analysis of TristramShandy.txt: 37407 milliseconds.
+
+The book analyzed is: AnnaKarenina.txt
+The number of negative words: 7328
+The number of positive words: 7780
+The number of words total: 349988
+The percentage of positive words: 2.22 percent
+The percentage of negative words: 2.09 percent
+The most common positive word: positive
+The most common negative word: unable
+This book is a Comedy
+Time taken for sentiment analysis of AnnaKarenina.txt: 123177 milliseconds.

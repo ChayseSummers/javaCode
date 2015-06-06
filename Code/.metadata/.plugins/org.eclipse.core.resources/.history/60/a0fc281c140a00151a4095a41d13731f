@@ -1,0 +1,12 @@
+
+public class treeNode {
+	private int data;
+	private treeNode<Integer> leftRef;
+	private treeNode <Integer> rightRef;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

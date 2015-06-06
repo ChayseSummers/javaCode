@@ -1,0 +1,41 @@
+
+public class BinaryTree {
+
+	private treeNode root;
+	
+	public void addBST(int val){
+		treeNode newNode = new treeNode (val, null,null);
+		if(root == null)
+			root = newNode;
+		else{
+			treeNode cursor = root;
+			boolean done = false;
+			while(!done){
+				if(val<=cursor.getData()){//go left
+					if(cursor.getLeft() == null){
+						cursor.setLeft(newNode);
+						done = true;
+					}
+					else
+						cursor = cursor.getLeft();
+				}
+				else{//go right
+					if(cursor.getRight() == null){
+						cursor.setRight(newNode);
+						done = true;
+					}
+					else
+						cursor = cursor.getRight();
+				}
+			}
+		}
+	}
+	public static void main(String[] args) {
+		BianryTree bt = new BianryTree();
+		for (int i = 1; i <= 10; i++)
+			bt.addBST(i);
+		System.out.println();
+
+	}
+
+}

@@ -1,0 +1,94 @@
+import java.io.*;
+import java.util.*;
+public class BookAnalyzer {
+	private Set<String> posWords;
+	private Set<String> negWords;
+	private ArrayList<Object> bookWords;
+	
+	public BookAnalyzer(String positive, String negative,
+			File book) throws FileNotFoundException {
+		this.posWords = wordsSet(positive);
+		this.negWords = wordsSet(negative);
+		this.bookWords = loadWords(book);
+	}
+
+	private ArrayList<Object> loadWords(File book) throws FileNotFoundException {
+		List<String> posList = new ArrayList<String>();
+		List<String> negList = new ArrayList<String>();
+		List<String> words = new ArrayList<String>();
+		ArrayList<Object> processed = new ArrayList<Object>();
+		Map<String, Integer> posMap = new HashMap<String, Integer>();
+		Map<String, Integer> negMap = new HashMap<String, Integer>();
+		int count = 0;
+		Scanner fileScanner = new Scanner(book);
+		while(fileScanner.hasNext()){
+			String x = fileScanner.next();
+			if(posWords.contains(x)){
+				posList.add(x);
+				words.add(x);
+			}
+			else if(negWords.contains(x)){
+				negList.add(x);
+				words.add(x);
+			}
+			else{
+				words.add(x);
+			}
+		}
+		for(String positive:posList){
+			for(String word:words){
+				if(positive==word){
+					count++;
+				}
+			}
+			posMap.put(positive, count);
+		}
+		
+		processed.add(posList);
+		processed.add(negList);
+		processed.add(words);
+		System.out.println(negList.size());
+		System.out.println(posList.size());
+		System.out.println(words.size());
+		System.out.printf("The percentage of positive words is: %.2f ", (((double)posList.size()/words.size())*100));
+		System.out.println("The percentage of negative words is: "+ (((double)negList.size()/words.size())*100));
+		System.out.println(posMap);
+		return processed;
+	}
+
+	private ArrayList<String> booksList(ArrayList<File> books) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	private ArrayList<String> wordsList(ArrayList<File> books) {
+		ArrayList<String> words = new ArrayList<String>();
+		for(File book:books){
+			try{
+			Scanner fileScanner = new Scanner(book);
+			while(fileScanner.hasNext()){
+				words.add(fileScanner.next());
+			}
+			fileScanner.close();
+		}catch(FileNotFoundException e){
+			System.out.print("File not found please try again.");
+			}
+		}
+		
+		return words;
+		
+		
+	}
+
+	private Set<String> wordsSet(String positive) throws FileNotFoundException {
+		Set<String> set = new HashSet<String>();
+		Scanner fileScanner = new Scanner(new File(positive));
+		while(fileScanner.hasNext()){
+			set.add(fileScanner.next());
+		}
+		fileScanner.close();
+		
+		return set;
+		
+	}
+}

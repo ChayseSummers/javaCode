@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;treeNode.java&apos; to &apos;Chapter17/src&apos;&#x0D;&#x0A;- Original project: &apos;Chapter16&apos;&#x0D;&#x0A;- Destination element: &apos;Chapter17/src&apos;&#x0D;&#x0A;- Original element: &apos;treeNode.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=Chapter17/src" element1="/src&lt;{treeNode.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1433351719812" units="1" version="1.0"/>
+</session>
