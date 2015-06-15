@@ -27,18 +27,104 @@ public class BinaryTree {
 					else
 						cursor = cursor.getRight();
 				}
+			} // {48,34,44,77,30,73,23,76,10,55}
+		}
+	}
+	
+	/*
+	 * The pre order: parent, left, right.
+	 * in order: left, parent, right.
+	 * post order: left right parent.
+	 */
+	public void preOrderPrint(){ 
+		preOrderPrint(root);
+	}
+	private void preOrderPrint(treeNode cursor) {
+		if(cursor != null){
+			System.out.print(cursor.getData()+" ");
+			preOrderPrint(cursor.getLeft());
+			preOrderPrint(cursor.getRight());
+		}
+	}
+	
+	public void inOrderPrint(){
+		inOrderPrint(root);
+	}
+
+	private void inOrderPrint(treeNode cursor) {
+		if(cursor != null){
+			inOrderPrint(cursor.getLeft());
+			System.out.print(cursor.getData()+ " ");
+			inOrderPrint(cursor.getRight());
+		}
+		
+	}
+	
+	public void postOrderPrint(){
+		postOrderPrint(root);
+	}
+
+	private void postOrderPrint(treeNode cursor) {
+		if(cursor != null){
+			postOrderPrint(cursor.getLeft());
+			postOrderPrint(cursor.getRight());
+			System.out.print(cursor.getData()+ " ");
+		}
+		
+	}
+	
+	public int size(){
+		return size(root);
+	}
+	
+	private int size(treeNode cursor) {
+		if(cursor == null){
+			return 0;
+		}
+		else{
+			return 1 + size(cursor.getLeft()) + size(cursor.getRight());
+		}
+		
+	}
+	
+	public boolean contains(int i){
+		return contains(i,root);
+	}
+
+	private boolean contains(int i, treeNode cursor) {
+		if(cursor==null){
+			return false;
+		}
+		else{
+			if(i == cursor.getData()){
+				return true;
+			}
+			else if(cursor.getData()<i){
+				return contains(i,cursor.getRight());
+			}
+			
+			else{
+				return contains(i,cursor.getLeft());
 			}
 		}
 	}
+
 	public static void main(String[] args) {
 		BinaryTree bt = new BinaryTree();
-		for (int i = 1; i <= 10; i++){
-			int val = (int)(Math.random()*100);
-			System.out.println(val);
-			bt.addBST(val);
+		int[] data = {48,34,44,77,30,73,23,76,10,55};
+		for (int i = 0; i < 10; i++){
+			//int val = (int)(Math.random()*100); //to generate random numbers to build tree.
+			//System.out.println(val);
+			bt.addBST(data[i]);
 		}
+		bt.preOrderPrint();
 		System.out.println();
-
+		bt.inOrderPrint();
+		System.out.println();
+		bt.postOrderPrint();
+		System.out.println();
+		System.out.println(bt.size());
+		System.out.println(bt.contains(48));
 	}
 
 }

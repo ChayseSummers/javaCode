@@ -1,0 +1,250 @@
+Chayse Summers
+CSC143 - Gandham
+June 14th, 2015
+Assignment 4 - Book Catalog #)2,3
+
+Test log for ISBN code number check methods:
+
+(June 12th, 2015)
+-------------------------------------------------------------------------------
+Error, the ISBN code for this book is invalid. Not enough or too many digits.
+ISBN must be 10 digits and 3 dashes, ok to enter without dashes.
+Please re-enter the ISBN code: 0-201-8A337-6
+
+Invalid ISBN. Must consist of numbers or an X representing the number ten. 
+Please re-eter the ISBN code: 0-201-88-337-6
+
+Error, invalid entry. Incorrect number of dashes "-".
+Please re-eter the ISBN code: 0-201883376
+
+Error, invalid entry. Incorrect number of dashes "-".
+Please re-eter the ISBN code: 0-201-88337-3
+
+Error, invalid entry. Check sum doesn't add up.
+Please re-eter the ISBN code: -013-117334-0
+
+Error, invalid entry. ISBN cannot begin or end with a '-'.
+Please re-enter the ISBN code: 157231--866-X
+
+Error, invalid entry. ISBN cannot have sequencial dashes, ie. "--".
+Please re-eter the ISBN code: 013-1134-0
+
+Error, invalid entry. Incorrect number of dashes "-".
+Please re-eter the ISBN code: 013-1-34-0
+
+Error, the ISBN code for this book is invalid. Not enough or too many digits.
+ISBN must be 10 digits and 3 dashes, ok to enter without dashes.
+Please re-enter the ISBN code: 0-201-88337-6
+
+-------------------------------------------------------------------------------
+
+(June 14th, 2015)
+
+Final output log. Shows features of program.
+
+Hello and welcome to the CSC143 book catalog. Created by Chayse Summers.
+This catalog allows you to store and access data for books including the price of the book.
+Please wait while the database is created...
+...................... Done!
+
+
+Menu Selection:
+	 1.) Add book to the catalog.
+	 2.) Search for a book in the catalog.
+	 3.) Remove a book from the catalog.
+	 4.) Browse entire catalog.
+	 5.) View size of catalog.
+	 6.) Quit catalog program.
+Please enter selection: 5
+This catalog contains 22 books.
+
+
+Menu Selection:
+	 1.) Add book to the catalog.
+	 2.) Search for a book in the catalog.
+	 3.) Remove a book from the catalog.
+	 4.) Browse entire catalog.
+	 5.) View size of catalog.
+	 6.) Quit catalog program.
+Please enter selection: 2
+Please enter either the ISBN number, the authors first or last name, or the title of the book to search the catalog: Misra
+Book [ISBN: 0-387-95206-3
+Title: A Discipline of Multiprogramming
+Author: Pady Misra
+Date of Publication: 2001
+Price: $45.5]
+
+
+Menu Selection:
+	 1.) Add book to the catalog.
+	 2.) Search for a book in the catalog.
+	 3.) Remove a book from the catalog.
+	 4.) Browse entire catalog.
+	 5.) View size of catalog.
+	 6.) Quit catalog program.
+Please enter selection: 3
+Please enter either the ISBN number, the authors first or last name, or the title of the book to delete from the catalog: Misra
+Book has been removed from the catalog.
+
+Menu Selection:
+	 1.) Add book to the catalog.
+	 2.) Search for a book in the catalog.
+	 3.) Remove a book from the catalog.
+	 4.) Browse entire catalog.
+	 5.) View size of catalog.
+	 6.) Quit catalog program.
+Please enter selection: 5
+This catalog contains 21 books.
+
+
+Menu Selection:
+	 1.) Add book to the catalog.
+	 2.) Search for a book in the catalog.
+	 3.) Remove a book from the catalog.
+	 4.) Browse entire catalog.
+	 5.) View size of catalog.
+	 6.) Quit catalog program.
+Please enter selection: 4
+
+Book [ISBN: 0-387-95144-X
+Title: Electronic Properties of Materials
+Author: Craig Hummel
+Date of Publication: 2001
+Price: $52.5]
+
+Book [ISBN: 0-387-95192-X
+Title: Dynamic Simulations of Multibody Systems
+Author: Kumari Coutinho
+Date of Publication: 2001
+Price: $52.5]
+
+Book [ISBN: 3-540-41817-2
+Title: Disorder and Order in Strongly Nonstoichiometric Compounds
+Author: Rempel Gusev
+Date of Publication: 2001
+Price: $70.0]
+
+Book [ISBN: 0-387-95065-6
+Title: Discrete Event Modeling and Simulation Technologies
+Author: Cellier Sarjoughian
+Date of Publication: 2001
+Price: $52.5]
+
+Book [ISBN: 3-540-41341-3
+Title: Digital Signal Processing with Field Programmable Gate Arrays
+Author: Baese Meyer
+Date of Publication: 2001
+Price: $52.5]
+
+Book [ISBN: 1-85233-397-9
+Title: Dictionary of Acronyms and Technical Abbreviations
+Author: Rony Vlietstra
+Date of Publication: 2001
+Price: $49.5]
+
+Book [ISBN: 3-540-41247-6
+Title: Deformation and Fracture Behaviour of Polymers
+Author: Seidler Grellmann
+Date of Publication: 2001
+Price: $70.0]
+
+Book [ISBN: 3-540-41377-4
+Title: Customer Relationship Management
+Author: Morgan Muther
+Date of Publication: 2002
+Price: $28.0]
+
+Book [ISBN: 3-540-41613-7
+Title: Coordination of Internet Agents
+Author: Mirche Omicini
+Date of Publication: 2001
+Price: $32.0]
+
+Book [ISBN: 3-540-41820-2
+Title: Control of Electrical Drives
+Author: Leonis Leonhard
+Date of Publication: 2001
+Price: $42.0]
+
+Book [ISBN: 3-540-42243-9
+Title: Computer-Aided Scheduling of Public Transport
+Author: Daduna Vob
+Date of Publication: 2001
+Price: $45.0]
+
+Book [ISBN: 3-540-67481-0
+Title: Computer Architecture
+Author: Paul Mueller
+Date of Publication: 2000
+Price: $35.0]
+
+Book [ISBN: 3-540-42074-6
+Title: Computational Methods for Fluid Dynamics
+Author: Peric Ferziger
+Date of Publication: 2002
+Price: $35.0]
+
+Book [ISBN: 3-540-65620-0
+Title: Computational Geometry
+Author: Clive Berg
+Date of Publication: 2000
+Price: $23.0]
+
+Book [ISBN: 3-540-66574-9
+Title: Chaos for Engineers
+Author: Kelly Kapitaniak
+Date of Publication: 2000
+Price: $23.0]
+
+Book [ISBN: 3-540-66334-7
+Title: Biotransformations in Organic Chemistry
+Author: Finn Faber
+Date of Publication: 2000
+Price: $23.0]
+
+Book [ISBN: 3-540-65367-8
+Title: Approximation Algorithms
+Author: Gordy Vazirani
+Date of Publication: 2001
+Price: $24.5]
+
+Book [ISBN: 1-85233-219-0
+Title: Applied Interval Analysis
+Author: Kieffer Jaulin
+Date of Publication: 2001
+Price: $55.0]
+
+Book [ISBN: 0-387-94937-2
+Title: An Introduction to Environmental Biophysics
+Author: Norman Campbell
+Date of Publication: 1998
+Price: $31.5]
+
+Book [ISBN: 3-540-67713-5
+Title: Advertising Worldwide
+Author: Ray Kloss
+Date of Publication: 2001
+Price: $35.0]
+
+Book [ISBN: 1-85233-384-7
+Title: Adaptive Control of Nonsmooth Dynamic Systems
+Author: Lewis Tao
+Date of Publication: 2001
+Price: $65.0]
+
+
+Menu Selection:
+	 1.) Add book to the catalog.
+	 2.) Search for a book in the catalog.
+	 3.) Remove a book from the catalog.
+	 4.) Browse entire catalog.
+	 5.) View size of catalog.
+	 6.) Quit catalog program.
+Please enter selection: 6
+Thank you, would you like to save? y
+
+---------------------------------------------------------------
+
+Work Summary:
+
+This was quite the complex program. I fell very confident in my abilities after getting this program to work how I'd like it to. Some issues I encountered involved getting the output to save correctly, in the right format, catching exceptions and handling bad input from user. Other than those a lack of time was one of the main challenges. Not that we didn't have enough time from when this was assigned as much as I wasn't able to get as much done prior to the due date as I would have liked to. I added a feature that lets the user see how many books are currently in the catalog. This was fun, I had a great time in CSC143. Thanks for everything!
